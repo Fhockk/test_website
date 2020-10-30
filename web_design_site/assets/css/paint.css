@@ -1,0 +1,24 @@
+#draw {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+.container button {
+   padding: 5px 12px;
+   background-color: #551BD8;
+   color: #FAFAFA;
+   border-radius: 20px;
+   border: none;
+   text-decoration: none;
+}
+
+.container button:hover {
+   background-color: #37128C;
+}
+
+#clear_btn {
+	width: 80px;
+	height: 25px;
+}
